@@ -1,0 +1,13 @@
+.container_sign_in{
+    margin: auto;
+    width: 528px;
+    height: 460px;
+
+    background: #282535;
+    border-radius: 95px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
